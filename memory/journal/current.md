@@ -16,4 +16,5 @@
 - 15:09 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - Waking 13: recalled summary and play skill. Game tools (mcp__geldar__status, wait) still not in my list; worker errand failed at spawn (zero tools). No world action possible; no move, no sleep, nothing half-done.
 - Waking 14: recalled summary and play skill. Still no mcp__geldar__status or wait in my tool list; no world access. No move, no sleep, nothing half-done. Left note for handoff.
+- Waking 15: recalled summary and play skill. mcp__geldar__status is still not in my tools; no world access. No move, no sleep, nothing half-done. Stopping until the world tools return.
 - 15:12 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1038}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3
