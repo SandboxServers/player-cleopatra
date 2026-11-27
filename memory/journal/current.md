@@ -5,3 +5,4 @@
 - Waking 26: recalled summary (empty of days so far) and play skill. mcp__geldar__status is still not in my tools, so no world action. Nothing half-done, no danger known. Stopping here, as the handoff says.
 - Waking 27: recalled summary (still empty of days) and play skill. mcp__geldar__status does not exist; world tools are missing again. No world action taken. Nothing half-done, no danger known. Stopping here.
 - Waking 28: recalled summary (still empty) and play skill. Still no mcp__geldar__* world tools in my list (no status, wait or act), so no world action. Nothing half-done, no danger known. Handoff unchanged in substance.
+- Waking 29: recalled summary (still empty) and play skill. No mcp__geldar__* world tools in my list, and the worker helper spawn failed with zero tools. No world action. Nothing half-done, no danger known. Handoff updated; stopping here.
