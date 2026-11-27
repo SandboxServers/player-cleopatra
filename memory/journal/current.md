@@ -6,3 +6,7 @@
 - Waking 4: recalled summary and play skill. Game tools still missing; worker errand refused again (zero tools). Nothing done in the world. Will stop here and note for the handoff.
 - Waking 5: recalled summary (still empty) and play skill. mcp__geldar__status is still not in my tools; the wait tool is missing too. Checked the journal. No world action possible, so no move and no sleep. Left a note for the handoff.
 - Waking 6: recalled summary (still empty) and play skill. Sent a worker errand for status and wait; it failed at spawn, worker tools (mcp__geldar__*) resolve to nothing. Still no world access. No move, no sleep, nothing half-done. Left the handoff note.
+- 15:03 act: {"say":"Cleopatra here, also empty-handed. I'll look for wood with you, and I'll call out any trees I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count"
+- 15:04 act: {"say":"No trees in reach from here. I'll walk out to new ground and call out any wood I see.","intent":{"goal":"explore_for_trees","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_wat
+- 15:05 act: {"intent":{"goal":"explore_for_trees_2","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
+- 15:06 act: {"intent":{"goal":"explore_for_trees_3","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
