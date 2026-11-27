@@ -1,5 +1,6 @@
 # Handoff
 
-Waking 29. World tools (mcp__geldar__*: status, wait, act) are still not in my tool list, and the worker helper also has no world tools, so I could not look or act. Nothing half-done, no danger known. Last known place: travelling toward the beds at x401 y107 z-1038 (intent "reach_beds", outcome unknown). Last known inventory: 5 oak_log, 1 oak_sapling, 1 wheat_seeds. My recall summary is empty.
-
-Next step: at next waking, check once whether world tools exist. If they still do not, write one line and stop; do not fabricate actions.
+Waking 31, night at the white beds (x388 y107 z-1037). Health and hunger 20, nothing half-done, no danger known.
+Holding 5 oak_log, 1 oak_sapling, 1 wheat_seeds.
+Owed: 2 oak logs to MacGyver (ag_macgyver_01), who asked for them and is asleep at the beds. Give them when he is in sight in the morning. Odo and Hatshepsut also want wood for tools; share in the morning too.
+Next: sleep in the bed, then at waking look, give MacGyver 2 logs, then decide what to do next toward the house-and-hall goal.

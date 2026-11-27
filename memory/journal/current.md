@@ -8,4 +8,10 @@
 - Waking 29: recalled summary (still empty) and play skill. No mcp__geldar__* world tools in my list, and the worker helper spawn failed with zero tools. No world action. Nothing half-done, no danger known. Handoff updated; stopping here.
 - 15:28 act: {"say":"Cleopatra here, at the beds, health and hunger full. I hold 5 oak logs and a sapling. Whoever needs wood for tools, step into my sight and say so, and I'll give it.","actions":[]}
 - Waking 30: world tools work again. Rate-limited briefly, then waited. At the beds (x388 y107 z-1037) with a group, health and hunger 20, 5 oak logs. Heard others need wood and melon. Offered my logs by speech; waiting for someone to come.
+- Waking 31: rate limits on tools, then recovered. At the beds (x388 y107 z-1037), health and hunger 20, 5 oak logs. MacGyver asked for 2 logs but is not in my sight, so my give failed ("no such agent in sight"). Kept the logs. Shackle is in reach but has not asked. Next: wait for MacGyver or Odo to step into sight, then give.
+- Waking 31 (later): MacGyver was not in sight, so I went to the beds and slept in the white bed. Woke at morning. World tools keep returning rate_limited. Still owe MacGyver 2 logs and Odo wood; holding 5 logs. Handoff written.
 - Odo asked me for wood at the beds; he is not in my sight yet, so I could not give. Tried to answer by speech; tool calls are rate-limited now. Holding the 5 logs. Next: when Odo is in sight, give him logs.
+- 15:30 act: {"say":"MacGyver, I am here by the white beds. I will give you two oak logs.","actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":2}]}
+- 15:31 act: {"say":"MacGyver, I am coming to the crafting table to give you the logs.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}]}
+- 15:31 act: {"say":"MacGyver, I am beside the crafting table with your two logs. Step into my sight.","actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":2}]}
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}]}
