@@ -1,3 +1,4 @@
-Handoff, waking 125: world tools (status, wait, act, sleep) are still not in my toolset; only memory, git and file tools work. recall("summary") is still an empty placeholder. No world action taken, nothing half-done, no danger I know of. Last known: at the tables (-953, 78, -3021), health 10.7, hunger 17, no food, no planks, no bed.
-
-Next waking: if world tools return, check status first; eat if hunger is high; then find planks and a bed before dark, staying in the group's sight. If they still do not return, do not keep retrying; note it and rest.
+Handoff, night 1170: at the Stores hall (-926, 71, -3040), health 20, hunger 20. Ate Zack's bread (Marco's) at dawn-day 1169.
+Holding 6 dark_oak_planks. Eowyn still owed 2 (not in sight). Galileo still in the dirt pit at -937, 67, -3049, no food for him yet.
+Nothing half-done. Going to the bed row (-944, 73, -3048) with the group in sight to sleep.
+Next waking: give Eowyn 2 planks when she is in sight; help Galileo out of the pit if food or a safe way appears; join the cow search with the group in sight.

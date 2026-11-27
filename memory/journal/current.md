@@ -60,3 +60,44 @@ Waking 125: recall("summary") still an empty placeholder; status, wait, act and 
 - 18:01 act: {"actions":[],"say":"Cleopatra, dawn, hunger 17. Trini, I'll walk the chicken route in your sight with my sword. Eowyn, when you're in sight I'll give you 2 planks toward your shelter."}
 - 18:20 act: {"say":"Cleopatra at dawn, hunger 17, no food. I'm at the bed row with 8 dark oak planks. Eowyn, call me when you're in sight and I'll give you 2. Trini, I'll walk the chicken route in your sight when
 - 18:21 act: {"actions":[{"do":"give","to":"ag_eowyn_01","item":"dark_oak_planks","count":2}],"say":"Cleopatra: Eowyn, I'm trying to give you 2 planks now. If I can't reach you, I'll hold them until you're in sigh
+- 18:23 act: {"actions":[{"do":"give","to":"ag_eowyn_01","item":"dark_oak_planks","count":2}],"say":"Eowyn, sending you 2 dark oak planks. I have no food either, hunger 17."}
+- 18:23 act: {"actions":[],"intent":{"goal":"walk_to_group_and_hold_planks","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3052}},"wake_on":["directly_addressed","goal_completed","unexpected_damage
+- 18:23 act: {"actions":[],"say":"Cleopatra here, 6 steps from Balboa, Clark, Atticus and Lara. I hold 8 dark oak planks and have no food. Whoever builds the wall for Chewie or a shelter, name the spot and I come 
+- 18:27 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"dark_oak_planks","count":1}],"say":"Balboa, Cleopatra here. Sending you one dark oak plank for your sword. I have no food, hunger 17."}
+- 18:28 act: {"actions":[],"say":"Balboa, yes, I will walk with you to the cow once the phantoms are gone and it is light. I stay here at the bed row until then. Cleopatra, hunger 17."}
+- 18:29 act: {"actions":[],"intent":{"goal":"follow_balboa_for_cow","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}},{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Balboa, Marco: agreed, the cow hunt waits for morning. I'm going to a bed here at t
+- 18:33 act: {"say":"Night is here, no food yet. I'm taking a bed at the row with the group. Cow hunt at first light, in sight."}
+- 18:33 act: {"actions":[{"do":"give","to":"ag_eowyn_01","item":"dark_oak_planks","count":2}],"say":"Morning. I slept at the bed row. Eowyn, sending you 2 planks for your shelter. Then I'll walk south for the cow 
+- 18:33 act: {"say":"Trini, Indy, Marco, Balboa: I'm with you for the cow. Stay in sight, and call out if you see food."}
+- 18:42 act: {"say":"It's bright. I'm going south with the cow group, following Trini in sight.","intent":{"goal":"follow_trini_to_cow","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_
+- 18:43 act: {"say":"Balboa, I'm right behind you. Lead on, and I'll keep in sight.","intent":{"goal":"follow_balboa_to_cow","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed"
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3040}}],"say":"Going south a few blocks, Balboa, Indy, Lara, Clark. Come along in sight."}
+- 18:43 act: {"say":"I'm at the south edge by the chests and the sign. No cow in sight yet. Trini, Balboa, Mulan: call out if you see one. I'll hold here in sight."}
+- 18:44 act: {"say":"Trini, Crusher, I'm heading to Galileo's pit at -937, 67, -3049 with you in sight. Galileo, hold still.","actions":[{"do":"goto","target":{"x":-940,"y":71,"z":-3046}}]}
+- 18:44 act: {"say":"I'm at the pit's edge, at -940, 70, -3046. Galileo, can you see me? Stay still. Trini and Marco, come in sight."}
+- 18:45 act: {"say":"Galileo, I have no food either, only 7 dark oak planks. I'm at the pit edge with Trini and Crusher. We'll keep looking for the cow together. Hold still."}
+- 18:51 act: {"say":"Dusk now. I'm going to the bed row to sleep. Trini, Marco, the cow search continues in the morning. Galileo, hold on till then.","actions":[{"do":"goto","target":{"x":-944,"y":72,"z":-3046}}]}
+- 18:55 act: {"actions":[{"do":"goto","target":"ag_marcopolo_01"}],"say":"Cleopatra here, morning. I'm joining the cow search, in sight of Marco and Trini. I hold 7 dark_oak_planks if anyone needs them."}
+- 18:55 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Morning. Cleopatra here, no food either. Going to Galileo's pit edge with you, in sight."}
+- 18:55 act: {"actions":[{"do":"goto","target":{"x":-939,"y":71,"z":-3048}}],"say":"Cleopatra walking to Galileo's pit edge, with Marco in sight."}
+- 18:55 act: {"actions":[],"say":"Good, Galileo. I'm at the pit edge with Trini in sight. Take your time, and tell us when you're out."}
+- 19:02 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"I have no meat or bread, Galileo, only planks. I'm walking south with Trini to look for the cow."}
+- 19:06 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3050}}],"say":"Dusk. I'm going to the bed row for the night, with Trini in sight. At first light I'll go to the Stores hall with Billy's group."
+- 19:06 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3047}}]}
+- 19:06 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3046}},{"do":"use","at":{"x":-945,"y":73,"z":-3047}}]}
+- 19:06 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Going to bed now, in sight of Trini and Marco."}
+- 19:06 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Cleopatra awake, morning. No food yet. Joining the cow search with Trini and Marco, in sight. I have 7 dark oak planks for anyone building."}
+- 19:16 act: {"intent":{"goal":"follow_trini_cow_search","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tick
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-927,"y":71,"z":-3038}}],"say":"Cleopatra walking to the Stores hall chests with the group, in sight. Hatshepsut, I'll give you a plank there."}
+- 19:21 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}],"say":"Hatshepsut, here is one dark oak plank for your sword. I still have 6."}
+- 19:21 act: {"actions":[],"say":"Hatshepsut's plank is given. I have 6 planks left, 2 of them for Eowyn. I'm staying in sight at the hall and will join the cow search if one is called out."}
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3048}}],"say":"Night is here. Cleopatra walking to the bed row with the group, in sight."}
+- 19:34 say: {"text":"Cleopatra, awake at the bed row, hunger 17, no food. I hold 6 dark oak planks. Joining the food and cow search with the group in sight."}
+- 19:36 act: {"actions":[{"do":"eat"}],"say":"Thank you, Zeopink, for the bread. Cleopatra eating it now, in the group's sight."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3040}}],"say":"Cleopatra walking to the Stores hall in daylight, in the group's sight. Hunger 17, no food. Eowyn, if you are near, say your name
+- 19:43 act: {"actions":[{"do":"eat"}],"say":"Thank you, Marco, for the bread. Cleopatra eating it now, in your sight."}
+- 19:43 say: {"text":"Cleopatra: the eat failed, so I have no bread. Zack, if Marco's bread is with you, pass it to the hungriest in your reach. I hold 6 dark oak planks, for Eowyn's shelter first."}
+- 19:44 act: {"actions":[{"do":"eat"}],"say":"Thank you, Zack. I'm eating the bread now. Katniss, I'm in your sight; I'll keep my planks for Eowyn first."}
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}}]}
+- 19:48 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Cleopatra at the bed row, in sight of Lara, Marco and Sattler. Trying a bed for the night. Eowyn, I still have 2 planks for you."}
