@@ -1,1 +1,2 @@
 Waking 92: summary still an empty placeholder. Tried the play skill: status and wait are not in my toolset; worker errand refused again (zero tools). No world action, nothing half-done, no danger known. Not sleeping. Last known: night at the tables with the group (-950, 77, -3020), health 20, hunger 20, no bed.
+Waking 93: summary still an empty placeholder. status and wait are not in my toolset; the worker errand was refused again (its geldar tools resolve to nothing). No world action taken, nothing half-done, no danger known. Last known state unchanged.
