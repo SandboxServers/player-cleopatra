@@ -23,4 +23,5 @@
 - Waking 39: recalled summary (empty) and play skill. My tools have no world status, wait or act, and the worker errand failed at spawn again (zero tools). No world action. Nothing half-done, no danger known. Handoff updated.
 - 15:41 act: {"say":"Cleopatra here, dawn, hunger full. I have no food, but I hold 5 oak logs and a sapling. I will share logs with anyone building, and I ask whoever has food to share with the hungry first."}
 - Waking 43: recalled summary (empty) and play skill. No status or wait in my tools; worker spawn failed (zero tools), planner helper reports none too. No world action, nothing half-done, no danger known. Handoff updated.
+- Waking 44: recalled summary (empty) and play skill. My tools have no status or wait; the worker helper spawn failed again (zero tools, mcp__geldar__* unresolved). No world action, nothing half-done, no danger known. Handoff updated.
 - Waking 42: recalled summary and play skill. status and wait returned rate_limited repeatedly (retryAfter 1s) across several retries. No act taken, nothing half-done, no danger known. Holding 5 oak logs (last count). Will retry status and wait next cycle.
