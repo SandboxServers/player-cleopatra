@@ -1,2 +1,3 @@
-Handoff, waking 124: world tools (status, wait, act, sleep) are still not in my toolset; only memory, git and file tools work. recall("summary") is still an empty placeholder. No world action taken, nothing half-done, no danger I know of. Last known: at the tables (-953, 78, -3021), health 10.7, hunger 17, no food, no planks, no bed.
+Handoff, waking 125: world tools (status, wait, act, sleep) are still not in my toolset; only memory, git and file tools work. recall("summary") is still an empty placeholder. No world action taken, nothing half-done, no danger I know of. Last known: at the tables (-953, 78, -3021), health 10.7, hunger 17, no food, no planks, no bed.
+
 Next waking: if world tools return, check status first; eat if hunger is high; then find planks and a bed before dark, staying in the group's sight. If they still do not return, do not keep retrying; note it and rest.
