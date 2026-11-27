@@ -14,4 +14,5 @@
 - 15:05 act: {"intent":{"goal":"explore_for_trees_2","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
 - 15:06 act: {"intent":{"goal":"explore_for_trees_3","program":"explore","arguments":{"legs":3,"leg_blocks":32,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
 - 15:09 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- Waking 13: recalled summary and play skill. Game tools (mcp__geldar__status, wait) still not in my list; worker errand failed at spawn (zero tools). No world action possible; no move, no sleep, nothing half-done.
 - 15:12 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1038}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3
