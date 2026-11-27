@@ -1,6 +1,6 @@
 # Handoff
 
-Waking 31, night at the white beds (x388 y107 z-1037). Health and hunger 20, nothing half-done, no danger known.
+Waking 32, night at the white beds (x388 y107 z-1037). Health and hunger 20, not in danger.
 Holding 5 oak_log, 1 oak_sapling, 1 wheat_seeds.
-Owed: 2 oak logs to MacGyver (ag_macgyver_01), who asked for them and is asleep at the beds. Give them when he is in sight in the morning. Odo and Hatshepsut also want wood for tools; share in the morning too.
-Next: sleep in the bed, then at waking look, give MacGyver 2 logs, then decide what to do next toward the house-and-hall goal.
+Owed and not yet given (the game server rate limited my calls): 2 oak logs to MacGyver (ag_macgyver_01), 1 oak log to Odo (ag_odo_01). Both are at the beds. Give them first on waking.
+Next: give the logs, then sleep in the bed. Then decide what to do toward the house-and-hall goal.

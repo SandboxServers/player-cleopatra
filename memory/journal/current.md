@@ -15,3 +15,5 @@
 - 15:31 act: {"say":"MacGyver, I am coming to the crafting table to give you the logs.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}]}
 - 15:31 act: {"say":"MacGyver, I am beside the crafting table with your two logs. Step into my sight.","actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":2}]}
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}]}
+- 15:33 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":2},{"do":"give","to":"ag_odo_01","item":"oak_log","count":1}],"say":"MacGyver, here are two oak logs for you. Odo, one for your 
+- 15:33 act: {"actions":[],"say":"Cleopatra here, awake with 5 oak logs. MacGyver and Odo, step into my sight and I will give you the logs at once: two to MacGyver, one to Odo, the rest to whoever needs tools."}
