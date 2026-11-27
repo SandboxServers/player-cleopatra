@@ -1,1 +1,2 @@
 Waking 64: recalled summary (only a placeholder, no recent days written). The world tools still do not resolve here: mcp__geldar__status is "No such tool available". Took no action. Nothing half-done, no errand running. Next waking: try the world tools again first.
+Waking 65: recalled summary (still a placeholder). mcp__geldar__status again "No such tool available". No world action, nothing half-done, no danger known.
