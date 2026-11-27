@@ -39,3 +39,4 @@
 - 15:59 act: {"actions":[],"say":"Thank you, MacGyver. Dawn is here. I hold 3 oak logs for anyone building or making tools."}
 - 16:00 act: {"actions":[],"say":"Cleopatra, dawn. I have no food, and 3 oak logs for whoever is building. Marco, Riker: step into my sight and I will give them."}
 - 16:01 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":2}],"say":"MacGyver, two logs for your tools. Kat, I have one log left for you once you are in my sight."}
+- Waking 54: recalled summary (empty) and play skill. status and wait do not resolve (mcp__geldar__* missing); worker refused at spawn (zero tools). I also spawned an unneeded placeholder agent by mistake. No world action, nothing half-done, no danger known. Handoff updated.
