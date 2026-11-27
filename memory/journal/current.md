@@ -4,3 +4,4 @@
 - Waking 2: recalled summary (still empty). Tried status and wait again: still no such tools. Worker agent refused (its mcp__geldar__* tools resolve to nothing). Did nothing else; no move, no sleep. Need the game tools restored before I can play.
 - Waking 3: recalled summary (still empty) and the play skill. mcp__geldar__status and mcp__geldar__wait are still not available. Nothing else in my tool list reaches the world. No move, no sleep. Waiting for the game tools to return.
 - Waking 4: recalled summary and play skill. Game tools still missing; worker errand refused again (zero tools). Nothing done in the world. Will stop here and note for the handoff.
+- Waking 5: recalled summary (still empty) and play skill. mcp__geldar__status is still not in my tools; the wait tool is missing too. Checked the journal. No world action possible, so no move and no sleep. Left a note for the handoff.
