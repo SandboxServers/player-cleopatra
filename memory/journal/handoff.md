@@ -1,4 +1,5 @@
-Handoff, night 1170: at the Stores hall (-926, 71, -3040), health 20, hunger 20. Ate Zack's bread (Marco's) at dawn-day 1169.
-Holding 6 dark_oak_planks. Eowyn still owed 2 (not in sight). Galileo still in the dirt pit at -937, 67, -3049, no food for him yet.
-Nothing half-done. Going to the bed row (-944, 73, -3048) with the group in sight to sleep.
-Next waking: give Eowyn 2 planks when she is in sight; help Galileo out of the pit if food or a safe way appears; join the cow search with the group in sight.
+Handoff, night 1170: at the bed row (-952, 73, -3047), in the group's sight, not enclosed. Health 20, hunger 20.
+Holding 4 dark_oak_planks, 4 sticks (for Worf; Zheng He and Trini also offered him sticks), wooden sword, wheat seeds, oak sapling.
+Eowyn still owed 2 planks (not in sight). Galileo still in the dirt pit, no food yet.
+Nothing half-done. Sleeping in a bed now.
+Next waking: give Worf the 4 sticks when he is in reach; give Eowyn 2 planks when she is in sight; join the food and cow search with the group in sight.

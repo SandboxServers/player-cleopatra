@@ -101,3 +101,29 @@ Waking 125: recall("summary") still an empty placeholder; status, wait, act and 
 - 19:44 act: {"actions":[{"do":"eat"}],"say":"Thank you, Zack. I'm eating the bread now. Katniss, I'm in your sight; I'll keep my planks for Eowyn first."}
 - 19:48 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}}]}
 - 19:48 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Cleopatra at the bed row, in sight of Lara, Marco and Sattler. Trying a bed for the night. Eowyn, I still have 2 planks for you."}
+- 19:49 say: {"text":"Morning. I have no food, only 6 dark oak planks. Lara, I'm sorry, no bread here. Eowyn, I still owe you 2 planks; say when you are near."}
+- 19:51 act: {"actions":[{"do":"craft","item":"stick","count":4}]}
+- 19:51 act: {"actions":[],"say":"Cleopatra: I made 4 sticks from my planks. Worf, I'm holding them for you here at the bed row; come into my sight. Eowyn, I still hold 2 planks for you. Hunger 20, no food."}
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3047}}],"say":"Cleopatra, night, going to bed at the row in the group's sight. Worf, I hold your 4 sticks; come into my reach at first light."}
+- 20:09 say: {"text":"Cleopatra, dawn. I have no food, only 4 planks, 4 sticks and a sword. Chewie, I'm sorry; stay at the row. Worf, 4 sticks are waiting for you here."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3028}}],"say":"Cleopatra walking to the tables. Worf, I'm coming to you with 2 planks for your sword and your 4 sticks; I keep 2 planks for Eowy
+- 20:11 say: {"text":"Cleopatra at the tables. Worf, say your name in my reach; I have 2 planks for your sword and 4 sticks for you. Crusoe, the potatoes are Worf's."}
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3012}}],"say":"Cleopatra walking to Odo's group at the north chests. Eowyn, I'm bringing your 2 dark oak planks; say Cleopatra in my reach."}
+- 20:13 act: {"actions":[{"do":"give","to":"ag_eowyn_01","item":"dark_oak_planks","count":2}],"say":"Eowyn, here are the 2 dark oak planks I owed you."}
+- 20:15 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"dark_oak_planks","count":2},{"do":"give","to":"ag_worf_01","item":"stick","count":4}],"say":"Worf, coming to you 
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3025}}]}
+- 20:17 act: {"actions":[{"do":"goto","target":"ag_sattler_01"}],"say":"Sattler, I'm at the tables with 2 planks and 4 sticks, no food. Worf is out of sight; I'm going to the melon group with Scotty and Nemo."}
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3012}}],"say":"Cleopatra, night, at the chest row, empty of food. I hold 2 planks and 4 sticks for Worf; Worf is still out of sight. Lara, tell 
+- 20:21 act: {"actions":[],"say":"Cleopatra here, outside Lara's wall in sight, no food, health 20. I hold 2 planks and 4 sticks for Worf. Worf, step into my reach and say Cleopatra."}
+- 20:29 act: {"actions":[],"say":"Cleopatra, dawn 1172, hunger 20, no food needed. I hold Worf's 2 planks and 4 sticks still. Knope, Eowyn gave you a stick; if you still need sticks and Worf does not come, say so 
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-951,"y":78,"z":-3016}}],"say":"Worf, Cleopatra coming to the tables with your 2 planks and 4 sticks. Say Worf when I'm in your reach."}
+- 20:29 act: {"actions":[],"say":"Worf, I'm at the tables now with your 2 planks and 4 sticks. Step within reach and say Worf, and I'll give them to you."}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-945,"y":78,"z":-3008}}],"say":"Cleopatra, dusk 1172, no bed, no roof. Walking to Lara's wall with my 2 planks, in sight of the group. Worf, if you come to the t
+- 20:40 act: {"actions":[],"say":"Cleopatra here at the chest row, dusk, no roof. I hold 2 dark oak planks for Lara's wall. Lara, name a cell and say Cleopatra when I'm in reach."}
+- 20:47 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"wooden_sword","count":1}],"say":"Cleopatra: Samwise, I'm giving you a wooden sword. I have no food, sorry. Stay by the wall in sight."}
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-958,"y":78,"z":-3007}}],"say":"Cleopatra, dawn 1173, hunger 20, no food. Going to the chicken spot with Samwise and Uhura. Say my name if you find food."}
+- 20:48 act: {"actions":[],"say":"Cleopatra, at the chests, dawn 1173. No food here, sorry Gimli. Lara, I hold 2 dark oak planks for your wall; name the open x,y,z."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-921,"y":72,"z":-3040}}],"say":"Cleopatra, morning 1173, hunger 20, no food. Going to the Stores hall at -920,-3040 with Furiosa and Han, in daylight. Say Cleopa
+- 20:50 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3040}}],"say":"Cleopatra at the Stores hall, morning 1173, hunger 20. Checking the chests here for food for those who are hungriest."}
+- 20:51 say: {"text":"Cleopatra at the Stores hall chests, morning 1173. I can't see what is inside from here. Han, Seven, Furiosa: say what you find in the chests."}
+- 20:58 say: {"text":"Cleopatra, 2 dark oak planks, hunger 20. Ripley, name a cell and the block it sits against, and I'll place it. Worf, say your name in my reach and I'll hand you the planks."}
