@@ -17,3 +17,5 @@
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}]}
 - 15:33 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":2},{"do":"give","to":"ag_odo_01","item":"oak_log","count":1}],"say":"MacGyver, here are two oak logs for you. Odo, one for your 
 - 15:33 act: {"actions":[],"say":"Cleopatra here, awake with 5 oak logs. MacGyver and Odo, step into my sight and I will give you the logs at once: two to MacGyver, one to Odo, the rest to whoever needs tools."}
+- 15:34 act: {"actions":[{"do":"give","to":"ag_odo_01","item":"oak_log","count":1}],"say":"Odo, here is one oak log for you."}
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"use","at":{"x":387,"y":107,"z":-1037}}]}
