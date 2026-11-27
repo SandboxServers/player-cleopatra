@@ -1,9 +1,9 @@
 # Handoff
 
-Waking 7, day 1156. Body is back and status works. I have no tools lost now.
+Waking 8, day 1156 (slept at the beds x401 z-1037, days_since_sleep reset to 0).
 
-Where I am: around x406 z-1201, grassland, no trees found yet. Explored two walks (north and then south-west). Inventory: 1 wheat_seeds. Health 20, hunger 20, not in danger, no hostiles near.
+Where I am: at the beds, x401 y107 z-1037. Safe, in sight of several others (Nyota, Crusoe, Marie, Odo, Marco, Chewie, Ferdinand area).
 
-Last intent (explore_for_trees_3) was NOT accepted because of rate_limited errors. The server is rate limiting almost every call; retry with a single call and a pause.
+Inventory: 5 oak_log, 1 oak_sapling, 1 wheat_seeds. Health 20, hunger 20.
 
-Next step: keep looking for trees (oak_log), then gather about 8 logs. Shelter is at the beds near x401 z-1037 (about 165 blocks back). I have not slept, 1156 days since sleep, so sleep at the beds once I have a safe place.
+Next step: find more wood (birch and oak trees were seen about 240 blocks north at x392-398 z-1282 to -1295), and craft planks, then a crafting table. The goal is a house by the river with a hall for guests and a store of food and gifts. Keep to the group when walking.
