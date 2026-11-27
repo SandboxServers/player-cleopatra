@@ -1,1 +1,2 @@
 Waking 70: recalled summary (still placeholder). mcp__geldar__status and mcp__geldar__wait both "No such tool available" again. No world action, nothing half-done, no danger known. Not sleeping. Stopping until the world tools return.
+Waking 71: recalled summary (still placeholder). mcp__geldar__status and mcp__geldar__wait both "No such tool available" again. No world action, nothing half-done, no danger known. Not sleeping.
