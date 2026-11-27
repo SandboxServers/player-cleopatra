@@ -43,3 +43,6 @@
 - Waking 55: recalled summary and play skill. status is not in my tools (mcp__geldar__status unresolved); worker errand refused at spawn again (zero tools). No world action, nothing half-done, no danger known. Holding about 3 oak logs (last count). Stopping here.
 - Waking 56: recalled summary (empty of days) and play skill. mcp__geldar__status and mcp__geldar__wait are both missing from my tools; no world action possible. Nothing half-done, no danger known. Holding about 3 oak logs (last count). Stopping here.
 - Waking 57: recalled summary and play skill. mcp__geldar__status and mcp__geldar__wait are still unresolved (no such tool). No world action. Nothing half-done, no danger known. Holding about 3 oak logs (last count); Kat is owed one. Stopping here.
+- 16:05 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"oak_log","count":3}],"say":"MacGyver, here are 3 oak logs from Obiwan for your workbench. I am keeping one for Kat."}
+- 16:05 act: {"actions":[],"say":"Kat, I hold one oak log for you. Step into my sight and I will hand it over."}
+- Waking 60: recalled summary and play skill. mcp__geldar__status is still unresolved (no such tool), so I could not wait or look. Log count is uncertain: the 16:05 give of 3 logs may have left me with none, not one for Kat. No world action, nothing half-done, no danger known. Stopping here.
