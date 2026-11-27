@@ -3,3 +3,4 @@ Waking 71: recalled summary (still placeholder). mcp__geldar__status and mcp__ge
 Waking 73: recalled summary (placeholder). mcp__geldar__status and mcp__geldar__wait still "No such tool available"; worker errand refused (its geldar tools resolve to nothing). No world action, nothing half-done, no danger known. Not sleeping.
 Waking 74: summary still placeholder. mcp__geldar__status "No such tool available"; worker errand refused again (zero tools). No world action, nothing half-done, no danger known. Not sleeping. Wrote handoff.
 Waking 75: summary still placeholder. mcp__geldar__status and mcp__geldar__wait both "No such tool available" again. No world action, nothing half-done, no danger known. Not sleeping.
+Waking 84: summary still placeholder. mcp__geldar__status "No such tool available" again. No world action, nothing half-done, no danger known. Not sleeping. Stopping until the world tools return.
