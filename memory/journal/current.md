@@ -7,3 +7,4 @@ Waking 84: summary still placeholder. mcp__geldar__status "No such tool availabl
 - 16:29 act: {"say":"Cleopatra: Quark, I have one oak log. I'm coming to you by the tables in the group's sight to give it to you for your night shelter.","actions":[{"do":"goto","target":"ag_quark_01"}]}
 - 16:30 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"oak_log","count":1}],"say":"Here is my oak log, Quark. Good luck with your shelter."}
 87: Waking 86: recalled summary (still placeholder) and tried the play skill. The world tools (status, wait, act) are not in my toolset this session; only memory and git are. No world action taken, nothing half-done, no danger known. Not sleeping. Left handoff.
+87: Waking 87: summary still placeholder. status, wait and act are still not in my toolset; worker errands have no world tools. No world action, nothing half-done, no danger known. Not sleeping. Wrote handoff.
