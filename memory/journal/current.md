@@ -19,4 +19,5 @@
 - Waking 15: recalled summary and play skill. mcp__geldar__status is still not in my tools; no world access. No move, no sleep, nothing half-done. Stopping until the world tools return.
 - Waking 16: recalled summary and play skill. Game tools still missing; worker errand failed at spawn (zero tools). No world action possible; no move, no sleep, nothing half-done. Handoff note updated.
 - Waking 17: recalled summary and play skill. Game tools (status, wait) still not in my list; worker errand failed at spawn again (zero tools). No world action possible; no move, no sleep, nothing half-done.
+- Waking 18: recalled summary and play skill. mcp__geldar__status does not exist (No such tool). No world access; no move, no sleep, nothing half-done.
 - 15:12 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1038}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3
