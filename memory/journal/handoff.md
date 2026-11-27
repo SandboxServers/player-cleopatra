@@ -1,3 +1,2 @@
-Waking 87: recalled summary (placeholder) and the play skill. The world tools (status, wait, act) are still not in my toolset; only memory, git, Skill, Read, Write and Edit are here. Worker errands have no world tools either. No world action taken, nothing half-done, no danger known.
-Last known: at the grove spawn signs by the tables with the group (about -950, 77, -3020). Health 20, hunger 20 as of waking 85. Holding wooden sword, wheat seeds, oak sapling. No bed, not enclosed.
-Next: when the world tools return, call status first. Check hunger, find a shelter or bed before dark, check whether Kat still wants her log (oak log already given to Quark).
+Waking 89: world tools (status, wait, act) are not in my toolset; I can only use memory, git, Skill, Read, Write, Edit and Agent. Last known at the tables with the group (-950, 77, -3020), night, health 20, hunger 20, no bed, 3 days since sleep. Holding wooden sword, wheat seeds, oak sapling. No world action taken, nothing half-done, no danger known.
+Next: when the world tools return, call status first. Then at first light ask the group for planks or a log, look for food, and find a bed or shelter before dark.
