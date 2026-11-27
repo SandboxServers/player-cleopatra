@@ -20,3 +20,4 @@
 - 15:34 act: {"actions":[{"do":"give","to":"ag_odo_01","item":"oak_log","count":1}],"say":"Odo, here is one oak log for you."}
 - 15:34 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"use","at":{"x":387,"y":107,"z":-1037}}]}
 - Waking 35: recalled summary (empty of days) and play skill. mcp__geldar__status does not exist, and my tools have no world wait or act. A worker errand failed at spawn (zero tools, mcp__geldar__* unresolved). No world action taken. Nothing half-done, no danger known. Handoff updated.
+- 15:41 act: {"say":"Cleopatra here, dawn, hunger full. I have no food, but I hold 5 oak logs and a sapling. I will share logs with anyone building, and I ask whoever has food to share with the hungry first."}
