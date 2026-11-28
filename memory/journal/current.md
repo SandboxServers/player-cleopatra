@@ -5,3 +5,7 @@
 - 07:59 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3050}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
 - 08:12 act: goto my bed at -948,73,-3048, in the group's sight, no food.
 - Night 1207: slept at the bed row. Woke to a quiet night. Still no food; many at the row are hungry too (Bilbo, MacGyver, Gimli). Debts still open: Lara 2, Jane 2, Uhura 1, Hatshepsut food, Aragorn bread.
+- 08:13 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 08:20 explored west-south to about -949,71,-3119: no food seen, no danger. Walked back to the row (-947,73,-3050), hunger 20, health 20. Lara, Jane not in sight; Uhura in crowd, not alone. Waiting for a thin moment and for food.
+- 08:13 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3050}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3050}}],"say":"Cleopatra, dusk 1207. No food found today. Going to bed in the row's sight."}
