@@ -1,1 +1,7 @@
 # Journal
+- Day 1206 morning, at the bed row (-948,73,-3047). Health 20, hunger 20. Crowd of about 15 around me; Uhura in reach but not alone, so no debt paid. No food seen.
+- Act: started intent explore_for_food (2 legs, 16 blocks, avoid water) to look for food away from the crowd. Will wake on direct address, damage or finish.
+- 07:59 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":20,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 07:59 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3050}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 08:12 act: goto my bed at -948,73,-3048, in the group's sight, no food.
+- Night 1207: slept at the bed row. Woke to a quiet night. Still no food; many at the row are hungry too (Bilbo, MacGyver, Gimli). Debts still open: Lara 2, Jane 2, Uhura 1, Hatshepsut food, Aragorn bread.
