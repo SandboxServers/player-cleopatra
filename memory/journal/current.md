@@ -74,3 +74,17 @@ Day 1190, morning. At the bed row with the group, health 20, hunger 20. Holding 
 - 05:39 say: {"text":"Thank you Aragorn. I have nothing in my pack, so I will gather wood from trees away from the lake and pay my debts when I have planks."}
 - 05:47 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3046}}],"intent":{"goal":"reach_bed_before_night_1200","program":"travel","arguments":{"target":{"x":-957,"y":73,"z":-3046}},"wake_on":["goal_co
 - 05:52 act: {"actions":[{"do":"use","at":{"x":-956,"y":73,"z":-3048}}],"say":"Cleopatra, dusk 1200, at the row in your sight. No food, no pack. Trying the bed at -956,73,-3048 to sleep."}
+- 05:53 act: {"intent":{"goal":"explore_for_wood","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_
+- 05:53 act: {"intent":{"goal":"return_to_bed_row_safe","program":"travel","arguments":{"target":{"x":-950,"y":73,"z":-3050}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 05:53 act: {"intent":{"goal":"gather_dark_oak_logs_north_of_row","program":"gather","arguments":{"block":"dark_oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage","preconditi
+- 05:54 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":16}],"say":"Got 4 dark oak logs north of the row, away from the lake. Making planks now for my debts."
+- 05:55 result: crafted 16 dark oak planks from 4 logs north of the bed row. Pack: 16 dark oak planks. Debts open: 2 Lara, 2 Jane, 1 Uhura, bread Aragorn, food Hatshepsut. Next: find Lara or Jane in reach and pay.}
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3052}}],"say":"Cleopatra, day 1200, at the row with 16 dark oak planks. Lara and Jane: say your names alone within my reach and I will give you 
+- 05:58 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}},{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}],"say":"Lara, Cleopatra here, coming to you alone for your 2 dark oak 
+- 05:58 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}]}
+- 05:59 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}],"say":"Lara, giving your 2 dark oak planks now."}
+- 06:00 result: give to Lara failed twice, "someone else stands within 2 blocks"; Lara at 1.9 blocks, asking me to give now. Still holding 16 planks. Next: step to a new spot and retry once, then go on to Jane and Uhura.
+- 05:59 act: {"actions":[{"do":"goto","target":{"x":-942,"y":73,"z":-3043}},{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}],"say":"Lara, I moved to the west side of you. Taking your 2 planks ov
+- 05:59 act: {"actions":[],"say":"Lara, the crowd keeps standing in my reach. I still have your 2 planks. Tell me when you are alone and I will give them at once."}
+- 06:00 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}],"say":"Giving you 2 dark oak planks now, Lara."}
+- 06:01 act: {"actions":[],"say":"Lara, the give keeps being refused while someone stands near you. I still hold your 2 planks and will hand them over as soon as the way is clear."}
