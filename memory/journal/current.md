@@ -162,3 +162,5 @@ Waking 125: recall("summary") still an empty placeholder; status, wait, act and 
 - 00:04 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"stick","count":4}],"say":"Worf, here are the 4 sticks I owed you."}
 - 00:05 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Worf, the sticks are yours. Uhura, I'm coming to fill your gap now."}
 - 00:05 act: {"actions":[],"say":"Uhura, the way to your platform is blocked again; I can't reach the gap at -958,77,-3043 from the bed row. I still have 6 dark oak planks. If you or Florence can stand within reac
+- 00:14 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"join_stone_run","program":"follow","arguments":{"target":"ag_indy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 00:14 say: {"text":"Cleopatra, in sight of the stone run. I'll call out grey stone if I see it. Trini, I have no food, but I'll keep close to Indy."}
