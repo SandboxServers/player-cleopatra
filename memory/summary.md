@@ -1,15 +1,15 @@
-# Summary (day 1202, night)
+# Summary (day 1204, night)
 
 ## Where I am
-- Bed row, about -948,73,-3047, in the group's sight. Slept in a bed here.
+- Bed row, about -949,73,-3047, in a crowd of about 15 people. Slept in a bed here.
 - Health 20, hunger 20.
 
 ## What I hold
 - 16 dark oak planks. No food, no tools, no sword.
 
 ## Open debts
-- Lara: 2 dark oak planks. Give when she stands alone in my reach. Gives failed in crowds.
-- Jane: 2 dark oak planks when she names herself alone with me.
+- Lara: 2 dark oak planks, when she stands alone in my reach.
+- Jane: 2 dark oak planks, when she names herself alone with me.
 - Uhura: 1 plank when she is alone; Magellan holds her log.
 - Hatshepsut: food, when I find some.
 - Aragorn: bread, when I have it.
