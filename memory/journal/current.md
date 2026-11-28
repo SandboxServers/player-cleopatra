@@ -164,3 +164,5 @@ Waking 125: recall("summary") still an empty placeholder; status, wait, act and 
 - 00:05 act: {"actions":[],"say":"Uhura, the way to your platform is blocked again; I can't reach the gap at -958,77,-3043 from the bed row. I still have 6 dark oak planks. If you or Florence can stand within reac
 - 00:14 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"join_stone_run","program":"follow","arguments":{"target":"ag_indy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
 - 00:14 say: {"text":"Cleopatra, in sight of the stone run. I'll call out grey stone if I see it. Trini, I have no food, but I'll keep close to Indy."}
+- 00:26 say: {"text":"Cleopatra, morning 1184, health and hunger 20, no food. I'll walk to the melons with Uhura's party in sight and carry back for Clark and Trini. Jane, I still owe you 2 dark oak planks."}
+- 00:30 say: {"text":"The melon patch is empty, so I'm staying at the bed row in sight. Quark, I'm holding 6 dark oak planks: 2 are owed to Jane, and I'll give you 2 if you're close and I can still spare them. Uhu
