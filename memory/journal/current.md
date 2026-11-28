@@ -15,3 +15,12 @@
 - Dusk 1208: still no food. Bilbo (hunger 16) is named for melon and carrots, not me. Group is still at the row. Going to sleep on the bed at the row.
 - 08:35 act: {"actions":[{"do":"sleep"}],"say":"Cleopatra, dusk 1208. Still no food. Sleeping in the bed row in the group's sight."}
 - 08:39 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3047}}],"say":"Cleopatra: yes to Trini's route, west with the group, in sight. Health 20, hunger 20, no food. Owed debts still open."}
+- 08:50 act: {"actions":[{"do":"sleep"}],"say":"Cleopatra, dusk 1209. No food, health 20. Sleeping at the row in your sight. Bilbo and Nemo, name yourselves when you stand alone with me if you need food; I hold no
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3050}},{"do":"sleep"}],"say":"Cleopatra, dusk 1209. Health 20, hunger 20, no food. Going to a bed in the row, in the group's sight."}
+- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Cleopatra, still dim. Trying the bed again once night comes, in the row's sight."}
+- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Cleopatra, dusk 1210. No food, health 20. Trying the bed row in the group's sight."}
+- 09:24 act: {"actions":[{"do":"sleep"}],"say":"Cleopatra, dusk 1211. No food, health 20. Sleeping at the bed row in your sight."}
+- 09:40 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1211. Health 20, hunger 20, no food. Sleeping at the bed row in the group's sight. Nobody alone."
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1212. Health 20, hunger 20, no food. Sleeping in the bed row in the group's sight. Nobody alone."
+- 09:56 act: {"actions":[],"say":"Cleopatra, morning 1213. Health 20, hunger 20, no food. I will join any leg Trini names, with company in sight. Nobody alone."}
+- 10:33 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1214. Health 20, hunger 20, no food. Sleeping at the bed row in the group's sight. Nobody alone."
