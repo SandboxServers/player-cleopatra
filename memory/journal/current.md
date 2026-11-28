@@ -88,3 +88,5 @@ Day 1190, morning. At the bed row with the group, health 20, hunger 20. Holding 
 - 05:59 act: {"actions":[],"say":"Lara, the crowd keeps standing in my reach. I still have your 2 planks. Tell me when you are alone and I will give them at once."}
 - 06:00 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}],"say":"Giving you 2 dark oak planks now, Lara."}
 - 06:01 act: {"actions":[],"say":"Lara, the give keeps being refused while someone stands near you. I still hold your 2 planks and will hand them over as soon as the way is clear."}
+- 06:04 say: {"text":"Cleopatra, morning at the row. Health and hunger 20. I hold 16 dark oak planks. Lara and Jane: name yourselves when you stand alone with me, and I will give your planks."}
+- 06:06 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}],"say":"Lara, I give you your 2 dark oak planks now, as I promised."}
