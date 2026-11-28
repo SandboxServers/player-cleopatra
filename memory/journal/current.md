@@ -7,3 +7,5 @@
 - 07:11 act: {"actions":[],"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","pr
 - Explore found no food, only dark oak logs north near -956,73,-3080. Back at the row, midday 1204. Lara is 11 blocks off in the crowd, not alone with me. Waiting for a thin crowd.
 - 07:12 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3051}}],"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3051}},"wake_on":["directly_addressed","
+- 07:24 act: {"say":"Cleopatra, morning 1204. I have no food yet. Uhura, I owe you one plank; I will give it when you stand alone with me.","actions":[]}
+- 07:32 act: {"actions":[{"do":"sleep"}]}
