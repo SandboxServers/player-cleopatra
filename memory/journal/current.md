@@ -1,2 +1,56 @@
 Day 1190, morning. At the bed row with the group, health 20, hunger 20. Holding 1 bread, 6 dark oak planks. Aragorn asked for bread once he is under 15; I promised it when he says his name alone with me. Hatshepsut owed food. Lara, Jane, Uhura not in sight. Waiting for food and for them.
 - 02:54 act: {"say":"Night at the bed row. Going to sleep with the group. Owed debts still open."}
+- 02:54 act: {"say":"Cleopatra, morning 1191. Health 20, hunger 20. I still have bread and 6 dark oak planks. I have not seen cows yet either, Billy. I am going to explore for food and stone.","intent":{"goal":"ex
+- 02:55 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3110}}],"intent":{"goal":"get_down_from_trees","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_co
+- 02:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-943,"y":61,"z":-3117}}],"say":"A pig to the north-east. I will go for it; food for the weakest first.","intent":{"goal":"hunt_pig_for_food","pr
+- 02:59 act: {"actions":[{"do":"attack","target":"pig"}]}
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":-940,"y":62,"z":-3140}}],"intent":{"goal":"get_away_from_mob_group","program":"travel","arguments":{"target":{"x":-940,"y":62,"z":-3140}},"wake_on":["goal_comple
+- 03:00 act: {"actions":[{"do":"attack","target":"creeper"}]}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-950,"y":62,"z":-3135}}]}
+- 03:01 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-955,"y":62,"z":-3110}}]}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-943,"y":61,"z":-3118}}],"intent":{"goal":"reach_pig_for_food","program":"travel","arguments":{"target":{"x":-943,"y":61,"z":-3118}},"wake_on":["goal_completed",
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}],"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":-947,"y":73,"z":-3047}},"wake_on":["goal_completed","
+- 03:06 act: {"actions":[],"say":"I am in a pit I dug to hide from the bows. I'll stay put until it is quiet."}
+- 03:07 act: {"actions":[{"do":"attack","target":"skeleton"}]}
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3047}}],"intent":{"goal":"reach_bed_row_after_death","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3047}},"wake_on":["goal_comp
+- 03:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-948,"y":73,"z":-3047}}]}
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3047}}],"intent":{"goal":"reach_bed_row_after_death","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3047}},"wake_on":["goal_comp
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":-962,"y":66,"z":-3075}}]}
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":-958,"y":72,"z":-3060}}],"say":"Cleopatra here, alone, no food, health 20. Trying to get back to the bed row by the west side of the lake."}
+- 03:15 act: {"actions":[{"do":"goto","target":{"x":-962,"y":66,"z":-3050}}],"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3047}},"wake_on":["goal_completed","
+- 03:17 act: {"actions":[{"do":"goto","target":{"x":-943,"y":61,"z":-3116}}]}
+- 03:21 say: {"text":"I am on a stone bit in the lake, boxed by deep water. No food, no tools. If anyone is near the bed row, call out."}
+- 03:25 act: {"actions":[{"do":"unstick"}]}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-943,"y":61,"z":-3116}}]}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-952,"y":62,"z":-3122}}]}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":-943,"y":61,"z":-3116}}],"intent":{"goal":"hunt_pig_for_food","program":"travel","arguments":{"target":{"x":-943,"y":61,"z":-3116}},"wake_on":["goal_completed","
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":-953,"y":60,"z":-3112}}],"intent":{"goal":"retreat_out_of_bow_line","program":"travel","arguments":{"target":{"x":-953,"y":60,"z":-3112}},"wake_on":["goal_comple
+- 03:46 say: {"text":"Cleopatra, alone on the north-west shore at -953,60,-3112. No food, no tools. If you are near, call out."}
+- 04:19 act: {"intent":{"goal":"explore_north_west_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":16,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage","prec
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":-953,"y":60,"z":-3112}}],"intent":{"goal":"retreat_to_stone_shore","program":"travel","arguments":{"target":{"x":-953,"y":60,"z":-3112}},"wake_on":["goal_complet
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":-944,"y":72,"z":-3091}}],"intent":{"goal":"climb_out_to_spawn_hill","program":"travel","arguments":{"target":{"x":-944,"y":72,"z":-3091}},"wake_on":["goal_comple
+- 04:21 act: {"actions":[{"do":"unstick"}]}
+- 04:22 act: {"actions":[{"do":"goto","target":{"x":-931,"y":61,"z":-3117}}],"intent":{"goal":"get_out_of_water_to_land","program":"travel","arguments":{"target":{"x":-931,"y":61,"z":-3117}},"wake_on":["goal_compl
+- 04:24 act: {"intent":{"goal":"gather_dark_oak_logs","program":"gather","arguments":{"block":"dark_oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"
+- 04:24 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":4}],"say":"Something hit me from behind. I'm getting wood into planks here."}
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":-930,"y":56,"z":-3117}}]}
+- 04:24 act: {"actions":[{"do":"unstick"}]}
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":-930,"y":56,"z":-3117}}]}
+- 04:25 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":{"x":-929,"y":56,"z":-3117}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Making a 
+- 04:25 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}]}
+- 04:25 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}]}
+- 04:25 act: {"actions":[{"do":"unstick"}]}
+- 04:25 act: {"intent":{"goal":"gather_dark_oak_logs_bank","program":"gather","arguments":{"block":"dark_oak_log","count":3},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 04:26 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}]}
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-930,"y":56,"z":-3117}}]}
+- 04:27 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-929,"y":56,"z":-3118}}]}
+- 04:27 act: {"actions":[{"do":"break","at":{"x":-929,"y":56,"z":-3118}},{"do":"break","at":{"x":-930,"y":56,"z":-3117}}]}
+- 04:27 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-929,"y":57,"z":-3118}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 04:27 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 04:27 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 04:36 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-930,"y":56,"z":-3118}}],"intent":{"goal":"hold_cover_at_lake_bank","program":"rest","arguments":{},"wake_on":["directly_addressed","unexp
+- 04:38 act: {"actions":[{"do":"goto","target":{"x":-929,"y":56,"z":-3118}}],"say":"Getting back onto the bank."}
+- 04:38 act: {"actions":[{"do":"goto","target":{"x":-929,"y":56,"z":-3118}},{"do":"place","block":"dark_oak_planks","at":{"x":-930,"y":56,"z":-3118}}]}
+- 04:38 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-930,"y":56,"z":-3117}},{"do":"place","block":"dark_oak_planks","at":{"x":-928,"y":56,"z":-3117}}],"say":"Arrows keep hitting me from the 
+- 04:45 act: {"actions":[{"do":"goto","target":{"x":-942,"y":61,"z":-3118}}],"intent":{"goal":"reach_pig_for_food","program":"travel","arguments":{"target":{"x":-942,"y":61,"z":-3118}},"wake_on":["unexpected_damag
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-929,"y":56,"z":-3117}}],"say":"Pulling back, I am being shot."}
