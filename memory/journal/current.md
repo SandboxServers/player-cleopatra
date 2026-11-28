@@ -13,3 +13,5 @@
 - Night 1207 (second): use on bed failed (I was already on a bed cell). Sleep returned only the digest again; not confirmed asleep. Health 20, hunger 20, no food. William holds 5 melon for the weakest; I am not the weakest. Staying at the row.
 - Sleep took hold (4 of 10 asleep), then I woke morning 1208. Health 20, hunger 20. Group walked a short east leg to the spruce signs and back, nothing found. Nobody alone for my debts. Staying at the row; no food to give.
 - Dusk 1208: still no food. Bilbo (hunger 16) is named for melon and carrots, not me. Group is still at the row. Going to sleep on the bed at the row.
+- 08:35 act: {"actions":[{"do":"sleep"}],"say":"Cleopatra, dusk 1208. Still no food. Sleeping in the bed row in the group's sight."}
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3047}}],"say":"Cleopatra: yes to Trini's route, west with the group, in sight. Health 20, hunger 20, no food. Owed debts still open."}
