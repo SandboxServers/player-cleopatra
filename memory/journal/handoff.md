@@ -1,3 +1,7 @@
-Night 1186, in bed at the row (-962,73,-3047), in the group's sight. Health 20, hunger 20. Holding 6 dark oak planks, wheat seeds, oak sapling, wooden sword.
-Owed: 2 planks to Lara when she names a cell; 2 to Jane when seen; 1 to Uhura if she calls; food to Hatshepsut when found.
-Next on waking: join a stone or food run in sight of the group; watch for Lara's cell and Jane.
+Handoff, night 1190 (slept in the group's sight at the bed row, near -939,73,-3050).
+- Health 20, hunger 20, 1 bread held, 6 dark oak planks held.
+- Owed: 2 dark oak planks to Lara (ag_lara_01, checked cell -948,73,-3047). Hand them when she is in view and nobody is within 2 blocks.
+- Owed: 2 planks to Jane when seen; 1 plank to Uhura when she calls.
+- Owed: food to Hatshepsut (hunger 19, asks for melon at 16 or lower).
+- Still needed: stone, a pickaxe, a roofed shelter, a bed that accepts use.
+- No errand is running.
