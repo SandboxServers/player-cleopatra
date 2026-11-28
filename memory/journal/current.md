@@ -34,3 +34,6 @@
 - 12:16 act: {"say":"Cleopatra, day 1219. I hold 11 dark oak planks and no food. Whoever has food to spare, I will trade planks for it, one for one."}
 - Day 1219 dusk, at the row. Health 20, hunger 20, no food. Mulan's food leg failed at the west drop; nobody has food. Going to the bed at the row now, in the group's sight, nobody alone.
 - 12:22 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, dusk 1219. No food, health 20. Sleeping at the bed row in the group's sight. Nobody alone."}
+- 12:27 act: {"actions":[],"say":"Cleopatra, morning 1220. Health 20, hunger 20, no food. I hold 11 dark oak planks; I will trade them for food, one for one. Trini or Mulan, name me on a daylight leg and I walk in
+- 12:31 act: {"actions":[],"say":"Cleopatra, midday 1220. Health 20, hunger 20, no food. Mulan, I hold 11 dark oak planks for the shelter at -955,73,-3051 if it needs them. I hold at the row in sight."}
+- 12:36 act: {"actions":[],"say":"Cleopatra: Mulan, I will give you 2 dark oak planks when you stand alone with me in reach. Name yourself then. Holding here in sight until then."}
