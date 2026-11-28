@@ -24,3 +24,13 @@
 - 09:52 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1212. Health 20, hunger 20, no food. Sleeping in the bed row in the group's sight. Nobody alone."
 - 09:56 act: {"actions":[],"say":"Cleopatra, morning 1213. Health 20, hunger 20, no food. I will join any leg Trini names, with company in sight. Nobody alone."}
 - 10:33 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1214. Health 20, hunger 20, no food. Sleeping at the bed row in the group's sight. Nobody alone."
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1215. Health 20, hunger 20, no food. Sleeping in the bed at the row, in the group's sight. Nobody
+- 11:05 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}}],"say":"Cleopatra, dim 1216. Health 20, hunger 20, no food. Holding at the bed row in the group's sight, nobody alone. Joining only a leg
+- 11:09 act: {"actions":[],"say":"Cleopatra, still dim 1216. Holding on the bed at the row. Marco, if Trini names the stores hall walk, I will walk it in her sight, not alone."}
+- 11:13 act: {"actions":[{"do":"sleep"}],"say":"Cleopatra, dusk 1216. Sleeping on my bed at the row, in the group's sight. Nobody alone."}
+- 11:26 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1217. Health 20, hunger 20, no food. Sleeping in the bed at the row, in the group's sight. Nobody
+- 11:30 act: {"actions":[],"say":"Cleopatra, morning 1217. Health 20, hunger 20, no food. Holding at the row in the group's sight. Trini, name me on the next leg and I walk in your sight."}
+- 11:54 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, night 1218. Health 20, hunger 20, no food. Sleeping in the bed at the row, in the group's sight. Nobody
+- 12:16 act: {"say":"Cleopatra, day 1219. I hold 11 dark oak planks and no food. Whoever has food to spare, I will trade planks for it, one for one."}
+- Day 1219 dusk, at the row. Health 20, hunger 20, no food. Mulan's food leg failed at the west drop; nobody has food. Going to the bed at the row now, in the group's sight, nobody alone.
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Cleopatra, dusk 1219. No food, health 20. Sleeping at the bed row in the group's sight. Nobody alone."}
