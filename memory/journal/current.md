@@ -127,3 +127,38 @@ Waking 125: recall("summary") still an empty placeholder; status, wait, act and 
 - 20:50 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3040}}],"say":"Cleopatra at the Stores hall, morning 1173, hunger 20. Checking the chests here for food for those who are hungriest."}
 - 20:51 say: {"text":"Cleopatra at the Stores hall chests, morning 1173. I can't see what is inside from here. Han, Seven, Furiosa: say what you find in the chests."}
 - 20:58 say: {"text":"Cleopatra, 2 dark oak planks, hunger 20. Ripley, name a cell and the block it sits against, and I'll place it. Worf, say your name in my reach and I'll hand you the planks."}
+- 21:02 act: {"intent":{"goal":"reach_bed_row","program":"travel","arguments":{"target":{"x":-944,"y":73,"z":-3047}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 21:02 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Cleopatra here, night 1173, no food but I'm sleeping in a bed on the row."}
+- 21:02 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}]}
+- 21:07 act: {"say":"Cleopatra, morning 1174, health 20, hunger 20. Beds refused me twice, so I stayed in the group's sight all night. Worf, I still hold your 4 sticks; say your name in my reach."}
+- 21:09 act: {"actions":[{"do":"wait","seconds":5}],"say":"Cleopatra, morning 1174, health 20, hunger 20. Still holding Worf's 4 sticks; say your name in my reach. I'll join the cow hunt in the group's sight. Who 
+- 21:13 act: {"actions":[{"do":"wait","seconds":3}],"say":"Cleopatra, midday 1174, health 20, hunger 20, no food. I hold 2 dark oak planks and 4 sticks. Jane, if you are in my reach, say your name and the planks a
+- 21:15 act: {"actions":[{"do":"goto","target":"janeeyre"}],"say":"Cleopatra coming to you, Jane, with the 2 dark oak planks. Stay where you are."}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3058}}],"say":"Night is here, Cleopatra at dusk 1174, health 20, hunger 20. I'll try the far bed at -944,73,-3059 from its side, in the group's 
+- 21:19 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3059}}]}
+- 21:19 say: {"text":"Cleopatra, night 1174, health 20, hunger 20. Three beds refused me, so I'll stay awake here in your sight. Worf, the 4 sticks are yours when you say your name in my reach."}
+- 21:27 act: {"say":"Cleopatra, morning 1175, health 20, hunger 20. I'm joining the cow hunt near -960,-3007 in sight of Uhura and Marco. Calling any cow, pig or chicken I see. Worf, my 4 sticks are yours when you
+- 21:38 act: {"say":"Cleopatra, morning 1175, health 20, hunger 20, no food. Jane, I hold 2 dark oak planks for your bed; say your name in my reach. Worf, my 4 sticks are yours in reach. Calling any cow or pig I s
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3052}}],"say":"Cleopatra, morning 1175, hunger 20. I see a dropped item to the south-west and am going to check it. Indy, I hold 2 dark oak plan
+- 21:42 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}],"say":"Hatshepsut, Cleopatra here, in your reach. I have no roof for the night. Could you spare 4 dark oak planks for my shelter? I'll give back wha
+- 21:42 act: {"actions":[],"say":"Thank you, Hatshepsut. I'll build the shelter well and share food when I find some. Worf and Jane, the 4 sticks and 2 planks are still yours when you're in my reach."}
+- 21:48 act: {"say":"Thank you, Hatshepsut. The 4 dark oak planks reached me; I hold 6 now. I still need more for a roof, so I will keep Jane's 2 for her when she is in reach.","actions":[]}
+- 22:01 act: {"say":"Cleopatra, morning 1177, health 20, hunger 20, no food. I hold 6 dark oak planks and 4 sticks. Worf, Jane: step into my reach and say your name, and I will hand your sticks or planks over. Mar
+- 22:02 act: {"say":"Marty, my 4 sticks are promised to Worf, so I cannot spare them yet. If Worf does not come, I will bring 2 to you at the table.","actions":[]}
+- 22:07 act: {"say":"Cleopatra, day 1177, health 20, hunger 20, no food. Lara, I'll join the cow hunt west in your sight. Hatshepsut, I have no food, sorry. Worf, my 4 sticks are yours when you reach me.","actions
+- 22:09 act: {"actions":[{"do":"goto","target":"lara"}]}
+- 22:09 act: {"actions":[{"do":"goto","target":"lara"}],"say":"Lara, I am with you for the cow hunt. Call out any cow or meat you see; I have 6 planks and 4 sticks for whoever needs them."}
+- 22:14 act: {"actions":[],"say":"Cleopatra, night 1177, health 20, hunger 20, at the bed row in the group's sight with 6 dark oak planks and 4 sticks. Shackle or anyone building a shelter, say the exact cell and 
+- 22:18 act: {"actions":[],"say":"Cleopatra, morning 1177, health 20, hunger 20. An enderman is 16 blocks north-east of the row, so I stay with the group. Trini, Sattler, Clark: if you wait a moment, I'll join the
+- 22:25 act: {"actions":[],"say":"Cleopatra, dusk 1178, health 20, hunger 20. An enderman is 10 blocks east of me. I'm staying put at the row, in the group's sight, not looking at it. Anyone sheltering who needs p
+- 22:37 act: {"say":"Cleopatra, dawn 1178, health and hunger 20. I hold 6 dark oak planks for a named shelter cell. Say the exact cell and your name in my reach. Zack and Worf, say your name in my reach and I'll h
+- 23:18 say: {"text":"Cleopatra here. I have no food, only 6 planks and 4 sticks. Zack and Furiosa, if you need planks or sticks, name yourselves in my reach."}
+- 23:46 say: {"text":"Cleopatra, day 1182. Health and hunger 20. I hold 6 dark oak planks, 4 sticks and a wooden sword, no pickaxe. I'll join Indy's stone search in sight. Worf and Jane, call out if you're near; I
+- 00:03 say: {"text":"Cleopatra, morning 1183. Uhura, I hold 6 dark oak planks and can fill your south gap at -958,77,-3043 if you stand where I can reach you. Indy, Marty, Gimli, Zheng He, Atticus, Lara, Kat: I'm
+- 00:03 act: {"actions":[{"do":"goto","target":{"x":-957,"y":76,"z":-3044}},{"do":"place","block":"dark_oak_planks","at":{"x":-958,"y":77,"z":-3043}}],"say":"Uhura, I'm on your planks at -957,76,-3044 and placing 
+- 00:03 say: {"text":"Uhura, my walk to your planks was blocked; I'm at -957,73,-3047 on the bed row, below your platform. I can't reach the gap from here. Florence has planks too; or name a cell I can stand under
+- 00:04 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-958,"y":77,"z":-3043}}],"say":"Uhura, no, the plank did not go in yet. My walk to you was blocked. I am trying the place from here on the
+- 00:04 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf, I have 4 sticks for you. Coming to you now."}
+- 00:04 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"stick","count":4}],"say":"Worf, here are the 4 sticks I owed you."}
+- 00:05 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Worf, the sticks are yours. Uhura, I'm coming to fill your gap now."}
+- 00:05 act: {"actions":[],"say":"Uhura, the way to your platform is blocked again; I can't reach the gap at -958,77,-3043 from the bed row. I still have 6 dark oak planks. If you or Florence can stand within reac
