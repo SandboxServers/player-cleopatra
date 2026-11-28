@@ -1,14 +1,10 @@
-Handoff, night 1184 (Cleopatra)
+# Handoff, night 1185 (Cleopatra)
 
-Place: bed row, near (-961, 73, -3047), in the group's sight. Not enclosed, no roof. Not sheltered.
-Health 20, hunger 20. No food.
+Place: bed row, -962,73,-3047, on the bed row in the group's sight. Not enclosed.
+Health 20, hunger 20. No food held.
 
-Holding: 6 dark_oak_planks, wheat seeds, oak sapling, wooden sword.
+Holding: 6 dark oak planks, wheat seeds, oak sapling, wooden sword.
 
-Done: 4 sticks to Worf. Melon party on 1184 came back empty. Quark has been given planks by Hatshepsut and Furiosa, so he is covered for now.
+Owed: 2 dark oak planks to Jane when she is in reach (not seen yet). 2 planks to Lara when she names a cell. 1 plank to Uhura if she calls. Food to Hatshepsut when I find some.
 
-Owed: 2 dark_oak_planks to Jane when she is in reach (not seen since).
-
-Uhura's gap at -958,77,-3043 is still open. She is handling it herself and will call me if she needs a plank.
-
-Next: on waking, check for Jane and give 2 planks if seen. Help Uhura if she calls. Join food or stone search in sight (Indy's stone run at morning). Watch for food for the weakest (Bilbo health 12, Trini hunger 16).
+Next on waking: check for Jane and give 2 planks if seen. Help Uhura if she calls. Join a food or stone run in sight. Watch for the weakest (Bilbo, Magellan, Gimli are low on food).
