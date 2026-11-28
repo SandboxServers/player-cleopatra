@@ -54,3 +54,23 @@ Day 1190, morning. At the bed row with the group, health 20, hunger 20. Holding 
 - 04:38 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-930,"y":56,"z":-3117}},{"do":"place","block":"dark_oak_planks","at":{"x":-928,"y":56,"z":-3117}}],"say":"Arrows keep hitting me from the 
 - 04:45 act: {"actions":[{"do":"goto","target":{"x":-942,"y":61,"z":-3118}}],"intent":{"goal":"reach_pig_for_food","program":"travel","arguments":{"target":{"x":-942,"y":61,"z":-3118}},"wake_on":["unexpected_damag
 - 04:46 act: {"actions":[{"do":"goto","target":{"x":-929,"y":56,"z":-3117}}],"say":"Pulling back, I am being shot."}
+- 05:28 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":8}],"say":"Cleopatra here at the lake's west bank. Hunger 16, no food yet. Making planks from my logs to keep my debts, then I will look for 
+- 05:28 act: {"actions":[],"say":"Cleopatra: I made 9 dark oak planks from my logs. Skeletons keep shooting from the north-west, so I am holding here by the water until the arrows stop. Lara and Jane, name yoursel
+- 05:36 act: {"actions":[],"intent":{"goal":"reach_bed_row_before_night","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3047}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":-929,"y":56,"z":-3117}}],"say":"Shot again, health 6.5. Pulling back to the bank by the crafting table, out of the bow line."}
+- 05:36 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dark_oak_planks","at":"feet"}],"say":"I am perched on water in the dark, health 6.5. Getting onto solid footing and building a plank cover."}
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":-925,"y":58,"z":-3121}}]}
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":-929,"y":56,"z":-3117}}],"say":"Still in the lake, health 6.5. Getting back onto the bank by the log."}
+- 05:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-930,"y":56,"z":-3117}}]}
+- 05:37 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-927,"y":54,"z":-3114}},{"do":"place","block":"dark_oak_planks","at":{"x":-927,"y":53,"z":-3114}}]}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-929,"y":56,"z":-3116}}],"say":"Stuck on the water at dusk, health 5.5. Trying the bank again."}
+- 05:37 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-929,"y":56,"z":-3116}},{"do":"place","block":"dark_oak_planks","at":{"x":-930,"y":56,"z":-3116}},{"do":"place","block":"dark_oak_planks",
+- 05:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-925,"y":58,"z":-3121}}],"say":"Health 2.5, adrift in the lake, skeletons closing from the north-west. If anyone is near the bank, I need help."
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-936,"y":54,"z":-3110}}]}
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}],"say":"Clark, Cleopatra here. I died in the lake at dusk, shot by skeletons. I wake at the bed row with nothing. I am hungry; I will com
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}],"say":"I am hurt and hungry, heading to the bed row. Skeletons are north-west."}
+- 05:39 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}]}
+- 05:39 say: {"text":"Back at the bed row. Aragorn, I owe you bread and have none yet. Thank you if the melon is spare."}
+- 05:39 say: {"text":"Thank you Aragorn. I have nothing in my pack, so I will gather wood from trees away from the lake and pay my debts when I have planks."}
+- 05:47 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3046}}],"intent":{"goal":"reach_bed_before_night_1200","program":"travel","arguments":{"target":{"x":-957,"y":73,"z":-3046}},"wake_on":["goal_co
+- 05:52 act: {"actions":[{"do":"use","at":{"x":-956,"y":73,"z":-3048}}],"say":"Cleopatra, dusk 1200, at the row in your sight. No food, no pack. Trying the bed at -956,73,-3048 to sleep."}
